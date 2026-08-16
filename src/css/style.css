@@ -11,7 +11,8 @@ ol {
 }
 
 :root {
-    --light-color: #F5F5F7;
+    --light-color: #e62121;
+    /* --light-color: #F5F5F7; */
     --dark-color: #221F20;
     --container-padding-inline: 13%;
     --footer-padding-inline: 10%;
